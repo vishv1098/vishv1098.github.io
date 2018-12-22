@@ -1,7 +1,7 @@
 #navback{
 	background:crimson;
 	border-radius: 0;
-		border:black;
+	border:black;
 	border-style: solid;
 	border-size:2px;
 }
@@ -24,6 +24,7 @@ hr{
 	border-style: solid;
 	border-size:2px;
 	margin-bottom: 20px;
+	overflow:hidden;
 }
 #menusub h2{
 	text-align:center;
